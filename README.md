@@ -1,6 +1,8 @@
 # we-do
 my first repository
 
+interaction with other people
+
 Hi everybody!
 
 My name is Bogdan, am 28 years old, i like to traveling.
